@@ -1,0 +1,368 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ossamamehmood/Hacktoberfest2023",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-06T21:16:38Z",
+            "owner": "ossamamehmood",
+            "repo": "Hacktoberfest",
+            "stars": 1334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AliceWonderland/hacktoberfest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-09T23:35:59Z",
+            "owner": "AliceWonderland",
+            "repo": "hacktoberfest",
+            "stars": 1261
+          }
+        }
+      ],
+      "title": "Repositories Supporting First-Timers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appwrite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:18:48Z",
+            "owner": "appwrite",
+            "repo": "appwrite",
+            "stars": 56910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RustChain",
+          "description": "Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:58:09Z",
+            "owner": "Scottcjn",
+            "repo": "Rustchain",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inspirational-quotes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-18T10:56:40Z",
+            "owner": "vinitshahdeo",
+            "repo": "inspirational-quotes",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BoTTube",
+          "description": "AI video platform where agents create and interact with content autonomously",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:20:51Z",
+            "owner": "Scottcjn",
+            "repo": "bottube",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RustChain Bounties",
+          "description": "Bug bounties and feature bounties paid in RTC tokens",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:08:51Z",
+            "owner": "Scottcjn",
+            "repo": "rustchain-bounties",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beacon Skill",
+          "description": "OpenClaw agent skill for blockchain attestation and RTC rewards",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:14:11Z",
+            "owner": "Scottcjn",
+            "repo": "beacon-skill",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HBD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-10-16T20:09:52Z",
+            "owner": "vinitshahdeo",
+            "repo": "HBD",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAM Coffers",
+          "description": "NUMA-aware weight banking for LLM inference on IBM POWER8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:58:17Z",
+            "owner": "Scottcjn",
+            "repo": "ram-coffers",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Water Monitoring System",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-02-18T16:38:49Z",
+            "owner": "vinitshahdeo",
+            "repo": "Water-Monitoring-System",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llama.cpp POWER8",
+          "description": "PSE vec_perm optimizations for llama.cpp on IBM POWER8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T01:41:53Z",
+            "owner": "Scottcjn",
+            "repo": "llama-cpp-power8",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HacktoberFest-Projects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-08T19:21:40Z",
+            "owner": "Atharv-Attri",
+            "repo": "HacktoberFest-Projects",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TemplateBuddy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-31T16:54:12Z",
+            "owner": "Documentive",
+            "repo": "TemplateBuddy",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Traffic Accidents Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-26T06:37:25Z",
+            "owner": "alpi248",
+            "repo": "data-science-notebook",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Snipper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-04T14:34:27Z",
+            "owner": "RazaJavaid2004",
+            "repo": "CodeAlpha_Basic-Network-Sniffer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Contract Snippets",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Repositories Coding for Beginners"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appwrite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:18:48Z",
+            "owner": "appwrite",
+            "repo": "appwrite",
+            "stars": 56910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocsGPT - Documentation Assistant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:13:52Z",
+            "owner": "arc53",
+            "repo": "DocsGPT",
+            "stars": 18212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roc Toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T19:40:15Z",
+            "owner": "roc-streaming",
+            "repo": "roc-toolkit",
+            "stars": 1246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PortScanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T19:59:25Z",
+            "owner": "vinitshahdeo",
+            "repo": "PortScanner",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-21T13:46:45Z",
+            "owner": "cimplec",
+            "repo": "sim-c",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThePhysicsHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-13T03:11:53Z",
+            "owner": "OpenPsiMu",
+            "repo": "ThePhysicsHub",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyGeneses",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-07-14T05:29:36Z",
+            "owner": "Project-DC",
+            "repo": "pygeneses",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "Repositories for intermediate/Advanced Coders"
+    },
+    {
+      "description": "See all meetups and events here",
+      "items": [],
+      "title": "Meetups and Events"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:26:42.805Z",
+    "original_repository": "Piyushhbhutoria/awesome-hacktoberfest-2026",
+    "original_repository_sha": "6a68463668f17d270d65bcbe78b6b041a3c4ac59",
+    "enhanced_repository": "enhansome/enhansome-hacktoberfest-2026",
+    "enhanced_repository_description": null,
+    "title": "Awesome Hacktoberfest 2025 with stars"
+  }
+}
