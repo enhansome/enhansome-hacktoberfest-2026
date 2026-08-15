@@ -14,7 +14,7 @@
             "last_commit": "2025-10-06T21:16:38Z",
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1334
+            "stars": 1333
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:57:08Z",
+            "last_commit": "2026-08-15T10:17:09Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 56959
+            "stars": 56994
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-14T04:02:45Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 588
+            "stars": 592
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-10T18:20:51Z",
             "owner": "Scottcjn",
             "repo": "bottube",
-            "stars": 315
+            "stars": 312
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:05:30Z",
+            "last_commit": "2026-08-15T06:17:47Z",
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
-            "stars": 251
+            "stars": 250
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-10T18:14:11Z",
             "owner": "Scottcjn",
             "repo": "beacon-skill",
-            "stars": 220
+            "stars": 219
           }
         },
         {
@@ -253,10 +253,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:57:08Z",
+            "last_commit": "2026-08-15T10:17:09Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 56959
+            "stars": 56994
           }
         },
         {
@@ -267,10 +267,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:54:16Z",
+            "last_commit": "2026-08-14T16:30:39Z",
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18216
+            "stars": 18217
           }
         },
         {
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T12:11:59.626Z",
+    "last_updated": "2026-08-15T11:48:34.748Z",
     "original_repository": "Piyushhbhutoria/awesome-hacktoberfest-2026",
     "original_repository_sha": "6a68463668f17d270d65bcbe78b6b041a3c4ac59",
     "enhanced_repository": "enhansome/enhansome-hacktoberfest-2026",
