@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 413995777,
             "language": null,
             "last_commit": "2025-10-06T21:16:38Z",
             "owner": "ossamamehmood",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105825987,
             "language": "HTML",
             "last_commit": "2024-07-09T23:35:59Z",
             "owner": "AliceWonderland",
@@ -35,7 +37,7 @@
       "title": "Repositories Supporting First-Timers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:47:13Z",
+            "last_commit": "2026-08-19T11:52:46Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57041
+            "stars": 57055
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 970157421,
             "language": "Python",
-            "last_commit": "2026-08-14T04:02:45Z",
+            "last_commit": "2026-08-19T01:32:22Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 620
+            "stars": 627
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158688580,
             "language": "JavaScript",
             "last_commit": "2024-08-18T10:56:40Z",
             "owner": "vinitshahdeo",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146846456,
             "language": "Python",
             "last_commit": "2026-08-17T06:30:30Z",
             "owner": "Scottcjn",
             "repo": "bottube",
-            "stars": 312
+            "stars": 314
           }
         },
         {
@@ -100,8 +106,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1147677291,
             "language": "Python",
-            "last_commit": "2026-08-18T06:22:26Z",
+            "last_commit": "2026-08-19T06:22:57Z",
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
             "stars": 250
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1154634184,
             "language": "Python",
             "last_commit": "2026-08-10T18:14:11Z",
             "owner": "Scottcjn",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90665274,
             "language": "HTML",
             "last_commit": "2023-10-16T20:09:52Z",
             "owner": "vinitshahdeo",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1137729039,
             "language": "Python",
             "last_commit": "2026-08-16T16:32:23Z",
             "owner": "Scottcjn",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141635301,
             "language": "HTML",
             "last_commit": "2024-02-18T16:38:49Z",
             "owner": "vinitshahdeo",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1122433720,
             "language": "C",
             "last_commit": "2026-08-06T01:41:53Z",
             "owner": "Scottcjn",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300452932,
             "language": "JavaScript",
             "last_commit": "2021-10-08T19:21:40Z",
             "owner": "Atharv-Attri",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 625650796,
             "language": "JavaScript",
             "last_commit": "2023-05-31T16:54:12Z",
             "owner": "Documentive",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 953149158,
             "language": "Jupyter Notebook",
             "last_commit": "2025-03-26T06:37:25Z",
             "owner": "alpi248",
@@ -226,24 +241,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1069608888,
             "language": "Python",
             "last_commit": "2025-10-04T14:34:27Z",
             "owner": "RazaJavaid2004",
             "repo": "CodeAlpha_Basic-Network-Sniffer",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Smart Contract Snippets",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Repositories Coding for Beginners"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -252,11 +262,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:47:13Z",
+            "last_commit": "2026-08-19T11:52:46Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57041
+            "stars": 57055
           }
         },
         {
@@ -266,8 +277,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 596516907,
             "language": "Python",
-            "last_commit": "2026-08-14T16:30:39Z",
+            "last_commit": "2026-08-19T11:19:26Z",
             "owner": "arc53",
             "repo": "DocsGPT",
             "stars": 18220
@@ -280,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48029439,
             "language": "C++",
             "last_commit": "2026-08-06T19:40:15Z",
             "owner": "roc-streaming",
@@ -294,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269067166,
             "language": "Python",
             "last_commit": "2024-06-07T19:59:25Z",
             "owner": "vinitshahdeo",
@@ -308,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273546973,
             "language": "Python",
             "last_commit": "2022-12-21T13:46:45Z",
             "owner": "cimplec",
@@ -322,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 281378857,
             "language": "JavaScript",
             "last_commit": "2021-05-13T03:11:53Z",
             "owner": "OpenPsiMu",
@@ -336,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 274225432,
             "language": "Python",
             "last_commit": "2023-07-14T05:29:36Z",
             "owner": "Project-DC",
@@ -345,21 +362,12 @@
         }
       ],
       "title": "Repositories for intermediate/Advanced Coders"
-    },
-    {
-      "description": "See all meetups and events here",
-      "items": [],
-      "title": "Meetups and Events"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:53:17.824Z",
+    "last_updated": "2026-08-19T11:53:13.631Z",
     "original_repository": "Piyushhbhutoria/awesome-hacktoberfest-2026",
+    "original_repository_id": 292611591,
     "original_repository_sha": "6a68463668f17d270d65bcbe78b6b041a3c4ac59",
     "enhanced_repository": "enhansome/enhansome-hacktoberfest-2026",
     "enhanced_repository_description": null,
