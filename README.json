@@ -30,7 +30,7 @@
             "last_commit": "2024-07-09T23:35:59Z",
             "owner": "AliceWonderland",
             "repo": "hacktoberfest",
-            "stars": 1262
+            "stars": 1261
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:34:15Z",
+            "last_commit": "2026-08-20T11:53:15Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57056
+            "stars": 57064
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 970157421,
             "language": "Python",
-            "last_commit": "2026-08-19T01:32:22Z",
+            "last_commit": "2026-08-20T03:17:43Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 627
+            "stars": 661
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 1146846456,
             "language": "Python",
-            "last_commit": "2026-08-17T06:30:30Z",
+            "last_commit": "2026-08-19T15:03:19Z",
             "owner": "Scottcjn",
             "repo": "bottube",
-            "stars": 314
+            "stars": 315
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 1147677291,
             "language": "Python",
-            "last_commit": "2026-08-19T12:20:10Z",
+            "last_commit": "2026-08-20T06:24:19Z",
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
             "stars": 250
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:34:15Z",
+            "last_commit": "2026-08-20T11:53:15Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57056
+            "stars": 57064
           }
         },
         {
@@ -279,10 +279,10 @@
             "archived": false,
             "id": 596516907,
             "language": "Python",
-            "last_commit": "2026-08-19T11:19:26Z",
+            "last_commit": "2026-08-20T11:51:34Z",
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18220
+            "stars": 18222
           }
         },
         {
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:35:54.239Z",
+    "last_updated": "2026-08-20T11:55:11.003Z",
     "original_repository": "Piyushhbhutoria/awesome-hacktoberfest-2026",
     "original_repository_id": 292611591,
     "original_repository_sha": "6a68463668f17d270d65bcbe78b6b041a3c4ac59",
