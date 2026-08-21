@@ -21,14 +21,14 @@
 
 ## Repositories Coding for Beginners
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,064 | 🐛 1,003 | 🌐 TypeScript | 📅 2026-08-20
-* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 661 | 🐛 187 | 🌐 Python | 📅 2026-08-20 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,072 | 🐛 1,004 | 🌐 TypeScript | 📅 2026-08-21
+* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 704 | 🐛 186 | 🌐 Python | 📅 2026-08-20 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
 * [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 340 | 🐛 2,129 | 🌐 JavaScript | 📅 2024-08-18
-* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 315 | 🐛 109 | 🌐 Python | 📅 2026-08-19 - AI video platform where agents create and interact with content autonomously
-* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 250 | 🐛 1,193 | 🌐 Python | 📅 2026-08-20 - Bug bounties and feature bounties paid in RTC tokens
+* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 317 | 🐛 101 | 🌐 Python | 📅 2026-08-20 - AI video platform where agents create and interact with content autonomously
+* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 251 | 🐛 1,170 | 🌐 Python | 📅 2026-08-21 - Bug bounties and feature bounties paid in RTC tokens
 * [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 219 | 🐛 4 | 🌐 Python | 📅 2026-08-10 - OpenClaw agent skill for blockchain attestation and RTC rewards
 * [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 183 | 🐛 288 | 🌐 HTML | 📅 2023-10-16
-* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 160 | 🐛 10 | 🌐 Python | 📅 2026-08-16 - NUMA-aware weight banking for LLM inference on IBM POWER8
+* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 160 | 🐛 9 | 🌐 Python | 📅 2026-08-20 - NUMA-aware weight banking for LLM inference on IBM POWER8
 * [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) ⭐ 156 | 🐛 116 | 🌐 HTML | 📅 2024-02-18
 * [llama.cpp POWER8](https://github.com/Scottcjn/llama-cpp-power8) ⭐ 129 | 🐛 2 | 🌐 C | 📅 2026-08-06 - PSE vec\_perm optimizations for llama.cpp on IBM POWER8
 * [HacktoberFest-Projects](https://github.com/Atharv-Attri/HacktoberFest-Projects/) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2021-10-08
@@ -39,8 +39,8 @@
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,064 | 🐛 1,003 | 🌐 TypeScript | 📅 2026-08-20
-* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,222 | 🐛 103 | 🌐 Python | 📅 2026-08-20
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,072 | 🐛 1,004 | 🌐 TypeScript | 📅 2026-08-21
+* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,220 | 🐛 102 | 🌐 Python | 📅 2026-08-20
 * [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,246 | 🐛 122 | 🌐 C++ | 📅 2026-08-06
 * [PortScanner](https://github.com/vinitshahdeo/PortScanner/) ⭐ 149 | 🐛 100 | 🌐 Python | 📅 2024-06-07
 * [simC](https://github.com/cimplec/sim-c) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2022-12-21
@@ -69,4 +69,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
