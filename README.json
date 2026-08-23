@@ -48,10 +48,10 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T03:38:59Z",
+            "last_commit": "2026-08-23T11:23:50Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57089
+            "stars": 57099
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 970157421,
             "language": "Python",
-            "last_commit": "2026-08-20T15:50:10Z",
+            "last_commit": "2026-08-23T00:06:17Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 715
+            "stars": 717
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-20T14:56:34Z",
             "owner": "Scottcjn",
             "repo": "bottube",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 1147677291,
             "language": "Python",
-            "last_commit": "2026-08-22T06:19:09Z",
+            "last_commit": "2026-08-23T10:04:32Z",
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
             "stars": 251
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T03:38:59Z",
+            "last_commit": "2026-08-23T11:23:50Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57089
+            "stars": 57099
           }
         },
         {
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 596516907,
             "language": "Python",
-            "last_commit": "2026-08-22T08:44:14Z",
+            "last_commit": "2026-08-23T10:46:26Z",
             "owner": "arc53",
             "repo": "DocsGPT",
             "stars": 18220
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:49:14.558Z",
+    "last_updated": "2026-08-23T11:48:59.391Z",
     "original_repository": "Piyushhbhutoria/awesome-hacktoberfest-2026",
     "original_repository_id": 292611591,
     "original_repository_sha": "6a68463668f17d270d65bcbe78b6b041a3c4ac59",
