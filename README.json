@@ -48,10 +48,10 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:23:32Z",
+            "last_commit": "2026-08-24T14:39:19Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57110
+            "stars": 57114
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 970157421,
             "language": "Python",
-            "last_commit": "2026-08-23T00:06:17Z",
+            "last_commit": "2026-08-24T13:08:11Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
             "stars": 721
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 1147677291,
             "language": "Python",
-            "last_commit": "2026-08-24T06:33:29Z",
+            "last_commit": "2026-08-24T13:08:49Z",
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
             "stars": 250
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:23:32Z",
+            "last_commit": "2026-08-24T14:39:19Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57110
+            "stars": 57114
           }
         },
         {
@@ -279,10 +279,10 @@
             "archived": false,
             "id": 596516907,
             "language": "Python",
-            "last_commit": "2026-08-23T10:46:26Z",
+            "last_commit": "2026-08-24T13:56:05Z",
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18221
+            "stars": 18222
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 48029439,
             "language": "C++",
-            "last_commit": "2026-08-24T06:17:01Z",
+            "last_commit": "2026-08-24T12:31:27Z",
             "owner": "roc-streaming",
             "repo": "roc-toolkit",
             "stars": 1246
@@ -362,10 +362,31 @@
         }
       ],
       "title": "Repositories for intermediate/Advanced Coders"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest Tracker Mobile App",
+          "description": "github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216213467,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T23:03:12Z",
+            "owner": "KeyboardNinjas",
+            "repo": "hacktoberfest-mobileapp",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Guides and Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:57:00.189Z",
+    "last_updated": "2026-08-24T14:45:02.054Z",
     "original_repository": "Piyushhbhutoria/awesome-hacktoberfest-2026",
     "original_repository_id": 292611591,
     "original_repository_sha": "6a68463668f17d270d65bcbe78b6b041a3c4ac59",

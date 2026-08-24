@@ -21,11 +21,11 @@
 
 ## Repositories Coding for Beginners
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,110 | 🐛 1,009 | 🌐 TypeScript | 📅 2026-08-24
-* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 721 | 🐛 186 | 🌐 Python | 📅 2026-08-23 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,114 | 🐛 1,009 | 🌐 TypeScript | 📅 2026-08-24
+* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 721 | 🐛 185 | 🌐 Python | 📅 2026-08-24 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
 * [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 340 | 🐛 2,129 | 🌐 JavaScript | 📅 2024-08-18
 * [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 318 | 🐛 110 | 🌐 Python | 📅 2026-08-24 - AI video platform where agents create and interact with content autonomously
-* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 250 | 🐛 1,173 | 🌐 Python | 📅 2026-08-24 - Bug bounties and feature bounties paid in RTC tokens
+* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 250 | 🐛 1,172 | 🌐 Python | 📅 2026-08-24 - Bug bounties and feature bounties paid in RTC tokens
 * [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 219 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - OpenClaw agent skill for blockchain attestation and RTC rewards
 * [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 183 | 🐛 288 | 🌐 HTML | 📅 2023-10-16
 * [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 160 | 🐛 9 | 🌐 Python | 📅 2026-08-20 - NUMA-aware weight banking for LLM inference on IBM POWER8
@@ -39,9 +39,9 @@
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,110 | 🐛 1,009 | 🌐 TypeScript | 📅 2026-08-24
-* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,221 | 🐛 105 | 🌐 Python | 📅 2026-08-23
-* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,246 | 🐛 123 | 🌐 C++ | 📅 2026-08-24
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,114 | 🐛 1,009 | 🌐 TypeScript | 📅 2026-08-24
+* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,222 | 🐛 103 | 🌐 Python | 📅 2026-08-24
+* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,246 | 🐛 121 | 🌐 C++ | 📅 2026-08-24
 * [PortScanner](https://github.com/vinitshahdeo/PortScanner/) ⭐ 149 | 🐛 100 | 🌐 Python | 📅 2024-06-07
 * [simC](https://github.com/cimplec/sim-c) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2022-12-21
 * [ThePhysicsHub](https://github.com/ThePhysHub/ThePhysicsHub/) ⚠️ Archived
@@ -49,10 +49,10 @@
 
 ## Guides and Resources
 
+* [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp) ⭐ 1 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-04
 * [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 * [Github Pages](https://pages.github.com/)
 * [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
-* [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp) ⭐ 1 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-04
 * [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 
 ## CLI Tools
