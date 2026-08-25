@@ -48,7 +48,7 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:39:19Z",
+            "last_commit": "2026-08-25T06:37:29Z",
             "owner": "appwrite",
             "repo": "appwrite",
             "stars": 57114
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 970157421,
             "language": "Python",
-            "last_commit": "2026-08-24T13:08:11Z",
+            "last_commit": "2026-08-24T16:27:36Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 721
+            "stars": 723
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 1146846456,
             "language": "Python",
-            "last_commit": "2026-08-24T06:28:10Z",
+            "last_commit": "2026-08-24T17:07:00Z",
             "owner": "Scottcjn",
             "repo": "bottube",
             "stars": 318
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 1147677291,
             "language": "Python",
-            "last_commit": "2026-08-24T13:08:49Z",
+            "last_commit": "2026-08-25T06:24:48Z",
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
             "stars": 250
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:39:19Z",
+            "last_commit": "2026-08-25T06:37:29Z",
             "owner": "appwrite",
             "repo": "appwrite",
             "stars": 57114
@@ -279,10 +279,10 @@
             "archived": false,
             "id": 596516907,
             "language": "Python",
-            "last_commit": "2026-08-24T13:56:05Z",
+            "last_commit": "2026-08-24T23:38:35Z",
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18222
+            "stars": 18223
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 48029439,
             "language": "C++",
-            "last_commit": "2026-08-24T12:31:27Z",
+            "last_commit": "2026-08-24T16:27:50Z",
             "owner": "roc-streaming",
             "repo": "roc-toolkit",
             "stars": 1246
@@ -386,7 +386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:02.054Z",
+    "last_updated": "2026-08-25T06:41:06.079Z",
     "original_repository": "Piyushhbhutoria/awesome-hacktoberfest-2026",
     "original_repository_id": 292611591,
     "original_repository_sha": "6a68463668f17d270d65bcbe78b6b041a3c4ac59",
