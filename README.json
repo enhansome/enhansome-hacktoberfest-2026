@@ -48,10 +48,10 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:36:35Z",
+            "last_commit": "2026-08-27T20:54:53Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57136
+            "stars": 57139
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 1147677291,
             "language": "Python",
-            "last_commit": "2026-08-27T05:30:39Z",
+            "last_commit": "2026-08-27T16:59:58Z",
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
             "stars": 250
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-24T07:07:08Z",
             "owner": "Scottcjn",
             "repo": "beacon-skill",
-            "stars": 219
+            "stars": 218
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-20T15:47:11Z",
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 159
+            "stars": 158
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-06T01:41:53Z",
             "owner": "Scottcjn",
             "repo": "llama-cpp-power8",
-            "stars": 128
+            "stars": 127
           }
         },
         {
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:36:35Z",
+            "last_commit": "2026-08-27T20:54:53Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57136
+            "stars": 57139
           }
         },
         {
@@ -279,10 +279,10 @@
             "archived": false,
             "id": 596516907,
             "language": "Python",
-            "last_commit": "2026-08-27T09:51:12Z",
+            "last_commit": "2026-08-27T19:46:17Z",
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18230
+            "stars": 18231
           }
         },
         {
@@ -386,7 +386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:50.091Z",
+    "last_updated": "2026-08-27T21:07:53.431Z",
     "original_repository_info": {
       "archived": false,
       "id": 292611591,
@@ -394,7 +394,7 @@
       "last_commit": "2026-03-11T14:53:02Z",
       "owner": "Piyushhbhutoria",
       "repo": "awesome-hacktoberfest-2026",
-      "stars": 63
+      "stars": 62
     },
     "original_repository_sha": "6a68463668f17d270d65bcbe78b6b041a3c4ac59",
     "enhanced_repository": "enhansome/enhansome-hacktoberfest-2026",

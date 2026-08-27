@@ -4,7 +4,7 @@
 
 > Feel Free to add your repos to the list 😄
 
-> Don't forget to [read our contributing guide](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2025/blob/master/CONTRIBUTING.md) ⭐ 63 | 🐛 1 | 🌐 SCSS | 📅 2026-03-11
+> Don't forget to [read our contributing guide](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2025/blob/master/CONTRIBUTING.md) ⭐ 62 | 🐛 1 | 🌐 SCSS | 📅 2026-03-11
 
 ## Contents
 
@@ -21,16 +21,16 @@
 
 ## Repositories Coding for Beginners
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,136 | 🐛 1,014 | 🌐 TypeScript | 📅 2026-08-27
-* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 724 | 🐛 195 | 🌐 Python | 📅 2026-08-25 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,139 | 🐛 1,017 | 🌐 TypeScript | 📅 2026-08-27
+* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 724 | 🐛 198 | 🌐 Python | 📅 2026-08-25 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
 * [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 340 | 🐛 2,129 | 🌐 JavaScript | 📅 2024-08-18
-* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 316 | 🐛 126 | 🌐 Python | 📅 2026-08-24 - AI video platform where agents create and interact with content autonomously
-* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 250 | 🐛 1,228 | 🌐 Python | 📅 2026-08-27 - Bug bounties and feature bounties paid in RTC tokens
-* [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 219 | 🐛 5 | 🌐 Python | 📅 2026-08-24 - OpenClaw agent skill for blockchain attestation and RTC rewards
+* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 316 | 🐛 130 | 🌐 Python | 📅 2026-08-24 - AI video platform where agents create and interact with content autonomously
+* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 250 | 🐛 1,200 | 🌐 Python | 📅 2026-08-27 - Bug bounties and feature bounties paid in RTC tokens
+* [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 218 | 🐛 5 | 🌐 Python | 📅 2026-08-24 - OpenClaw agent skill for blockchain attestation and RTC rewards
 * [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 183 | 🐛 288 | 🌐 HTML | 📅 2023-10-16
-* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 159 | 🐛 9 | 🌐 Python | 📅 2026-08-20 - NUMA-aware weight banking for LLM inference on IBM POWER8
+* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 158 | 🐛 9 | 🌐 Python | 📅 2026-08-20 - NUMA-aware weight banking for LLM inference on IBM POWER8
 * [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) ⭐ 156 | 🐛 116 | 🌐 HTML | 📅 2024-02-18
-* [llama.cpp POWER8](https://github.com/Scottcjn/llama-cpp-power8) ⭐ 128 | 🐛 2 | 🌐 C | 📅 2026-08-06 - PSE vec\_perm optimizations for llama.cpp on IBM POWER8
+* [llama.cpp POWER8](https://github.com/Scottcjn/llama-cpp-power8) ⭐ 127 | 🐛 0 | 🌐 C | 📅 2026-08-06 - PSE vec\_perm optimizations for llama.cpp on IBM POWER8
 * [HacktoberFest-Projects](https://github.com/Atharv-Attri/HacktoberFest-Projects/) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2021-10-08
 * [TemplateBuddy](https://github.com/Documentive/TemplateBuddy) ⭐ 3 | 🐛 14 | 🌐 JavaScript | 📅 2023-05-31
 * [Traffic Accidents Analysis](https://github.com/alpi248/data-science-notebook) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-03-26
@@ -39,8 +39,8 @@
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,136 | 🐛 1,014 | 🌐 TypeScript | 📅 2026-08-27
-* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,230 | 🐛 104 | 🌐 Python | 📅 2026-08-27
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,139 | 🐛 1,017 | 🌐 TypeScript | 📅 2026-08-27
+* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,231 | 🐛 105 | 🌐 Python | 📅 2026-08-27
 * [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,246 | 🐛 120 | 🌐 C++ | 📅 2026-08-24
 * [PortScanner](https://github.com/vinitshahdeo/PortScanner/) ⭐ 149 | 🐛 100 | 🌐 Python | 📅 2024-06-07
 * [simC](https://github.com/cimplec/sim-c) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2022-12-21
