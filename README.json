@@ -16,7 +16,8 @@
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
             "stars": 1333
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "AliceWonderland",
             "repo": "hacktoberfest",
             "stars": 1261
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         }
       ],
       "title": "Repositories Supporting First-Timers"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:54:53Z",
+            "last_commit": "2026-08-28T19:05:04Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57139
-          }
+            "stars": 57156
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 970157421,
             "language": "Python",
-            "last_commit": "2026-08-25T23:08:48Z",
+            "last_commit": "2026-08-28T16:39:29Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 724
-          }
+            "stars": 726
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "vinitshahdeo",
             "repo": "inspirational-quotes",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 1146846456,
             "language": "Python",
-            "last_commit": "2026-08-24T17:07:00Z",
+            "last_commit": "2026-08-28T16:39:54Z",
             "owner": "Scottcjn",
             "repo": "bottube",
-            "stars": 316
-          }
+            "stars": 320
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 1147677291,
             "language": "Python",
-            "last_commit": "2026-08-27T16:59:58Z",
+            "last_commit": "2026-08-28T17:49:17Z",
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
-            "stars": 250
-          }
+            "stars": 251
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 1154634184,
             "language": "Python",
-            "last_commit": "2026-08-24T07:07:08Z",
+            "last_commit": "2026-08-28T16:39:15Z",
             "owner": "Scottcjn",
             "repo": "beacon-skill",
-            "stars": 218
-          }
+            "stars": 219
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "vinitshahdeo",
             "repo": "HBD",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Scottcjn",
             "repo": "ram-coffers",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "vinitshahdeo",
             "repo": "Water-Monitoring-System",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "Scottcjn",
             "repo": "llama-cpp-power8",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "Atharv-Attri",
             "repo": "HacktoberFest-Projects",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "Documentive",
             "repo": "TemplateBuddy",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "alpi248",
             "repo": "data-science-notebook",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "RazaJavaid2004",
             "repo": "CodeAlpha_Basic-Network-Sniffer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         }
       ],
       "title": "Repositories Coding for Beginners"
@@ -264,11 +280,12 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:54:53Z",
+            "last_commit": "2026-08-28T19:05:04Z",
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57139
-          }
+            "stars": 57156
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -279,11 +296,12 @@
             "archived": false,
             "id": 596516907,
             "language": "Python",
-            "last_commit": "2026-08-27T19:46:17Z",
+            "last_commit": "2026-08-28T15:08:22Z",
             "owner": "arc53",
             "repo": "DocsGPT",
             "stars": 18231
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -297,8 +315,9 @@
             "last_commit": "2026-08-24T16:27:50Z",
             "owner": "roc-streaming",
             "repo": "roc-toolkit",
-            "stars": 1246
-          }
+            "stars": 1247
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "vinitshahdeo",
             "repo": "PortScanner",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "cimplec",
             "repo": "sim-c",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "OpenPsiMu",
             "repo": "ThePhysicsHub",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "Project-DC",
             "repo": "pygeneses",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         }
       ],
       "title": "Repositories for intermediate/Advanced Coders"
@@ -379,14 +402,15 @@
             "owner": "KeyboardNinjas",
             "repo": "hacktoberfest-mobileapp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:29:43.705Z"
         }
       ],
       "title": "Guides and Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:07:53.431Z",
+    "last_updated": "2026-08-28T21:29:43.705Z",
     "original_repository_info": {
       "archived": false,
       "id": 292611591,

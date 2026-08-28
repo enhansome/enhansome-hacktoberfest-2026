@@ -21,12 +21,12 @@
 
 ## Repositories Coding for Beginners
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,139 | 🐛 1,017 | 🌐 TypeScript | 📅 2026-08-27
-* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 724 | 🐛 198 | 🌐 Python | 📅 2026-08-25 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,156 | 🐛 1,026 | 🌐 TypeScript | 📅 2026-08-28
+* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 726 | 🐛 191 | 🌐 Python | 📅 2026-08-28 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
 * [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 340 | 🐛 2,129 | 🌐 JavaScript | 📅 2024-08-18
-* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 316 | 🐛 130 | 🌐 Python | 📅 2026-08-24 - AI video platform where agents create and interact with content autonomously
-* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 250 | 🐛 1,200 | 🌐 Python | 📅 2026-08-27 - Bug bounties and feature bounties paid in RTC tokens
-* [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 218 | 🐛 5 | 🌐 Python | 📅 2026-08-24 - OpenClaw agent skill for blockchain attestation and RTC rewards
+* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 320 | 🐛 139 | 🌐 Python | 📅 2026-08-28 - AI video platform where agents create and interact with content autonomously
+* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 251 | 🐛 1,157 | 🌐 Python | 📅 2026-08-28 - Bug bounties and feature bounties paid in RTC tokens
+* [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 219 | 🐛 5 | 🌐 Python | 📅 2026-08-28 - OpenClaw agent skill for blockchain attestation and RTC rewards
 * [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 183 | 🐛 288 | 🌐 HTML | 📅 2023-10-16
 * [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 158 | 🐛 9 | 🌐 Python | 📅 2026-08-20 - NUMA-aware weight banking for LLM inference on IBM POWER8
 * [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) ⭐ 156 | 🐛 116 | 🌐 HTML | 📅 2024-02-18
@@ -39,9 +39,9 @@
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,139 | 🐛 1,017 | 🌐 TypeScript | 📅 2026-08-27
-* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,231 | 🐛 105 | 🌐 Python | 📅 2026-08-27
-* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,246 | 🐛 120 | 🌐 C++ | 📅 2026-08-24
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,156 | 🐛 1,026 | 🌐 TypeScript | 📅 2026-08-28
+* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,231 | 🐛 105 | 🌐 Python | 📅 2026-08-28
+* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,247 | 🐛 120 | 🌐 C++ | 📅 2026-08-24
 * [PortScanner](https://github.com/vinitshahdeo/PortScanner/) ⭐ 149 | 🐛 100 | 🌐 Python | 📅 2024-06-07
 * [simC](https://github.com/cimplec/sim-c) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2022-12-21
 * [ThePhysicsHub](https://github.com/ThePhysHub/ThePhysicsHub/) ⚠️ Archived
@@ -69,4 +69,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
