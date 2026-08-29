@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacktoberfest OPEN FIRST Pull Request 🎉",
+            "homepage": "https://hacktoberfest.com",
             "id": 413995777,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-10-06T21:16:38Z",
+            "open_issues": 52,
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1333
+            "stars": 1333,
+            "topics": [
+              "awesome",
+              "contributions-welcome",
+              "digitalocean",
+              "first-contribution",
+              "first-contributions",
+              "firstcontributions",
+              "firstpullrequest",
+              "freecodecamp",
+              "freetshirt",
+              "gift",
+              "github",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2020",
+              "hacktoberfest2023",
+              "newbiefriendly",
+              "opensource",
+              "ossamamehmood",
+              "pull-request",
+              "pull-requests"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -26,12 +52,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest",
+            "homepage": null,
             "id": 105825987,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-09T23:35:59Z",
+            "open_issues": 7687,
             "owner": "AliceWonderland",
             "repo": "hacktoberfest",
-            "stars": 1261
+            "stars": 1261,
+            "topics": [
+              "easy-to-use",
+              "first-timers",
+              "hacktoberfest",
+              "javascript",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         }
@@ -48,12 +85,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+            "homepage": "https://appwrite.io",
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:05:04Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T03:39:00Z",
+            "open_issues": 1027,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57156
+            "stars": 57155,
+            "topics": [
+              "android",
+              "appwrite",
+              "backend",
+              "backend-as-a-service",
+              "docker",
+              "firebase",
+              "flutter",
+              "hosting",
+              "ios",
+              "javascript",
+              "nextjs",
+              "react",
+              "react-native",
+              "reactnative",
+              "self-hosted",
+              "selfhosted",
+              "serverless",
+              "supabase",
+              "swift",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -64,12 +127,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+            "homepage": "https://rustchain.org",
             "id": 970157421,
             "language": "Python",
-            "last_commit": "2026-08-28T16:39:29Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:24:35Z",
+            "open_issues": 191,
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 726
+            "stars": 731,
+            "topics": [
+              "agent-authentication",
+              "agent-economy",
+              "ai",
+              "ai-agents",
+              "blockchain",
+              "cryptocurrency",
+              "decentralized",
+              "depin",
+              "green-computing",
+              "hardware-attestation",
+              "hardware-fingerprinting",
+              "micropayments",
+              "mining",
+              "multi-agent-systems",
+              "open-source",
+              "proof-of-antiquity",
+              "solana",
+              "sovereign-inference",
+              "sybil-resistance",
+              "vintage-hardware"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -80,12 +169,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bulb: A simple NPM Package which returns random Inspirational Quotes. Get your daily quote and stay motivated! :v: :cherry_blossom:",
+            "homepage": "https://www.npmjs.com/package/inspirational-quotes",
             "id": 158688580,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-18T10:56:40Z",
+            "open_issues": 2129,
             "owner": "vinitshahdeo",
             "repo": "inspirational-quotes",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2019",
+              "inspirational-quotes",
+              "motivational-quotes",
+              "nodejs-modules",
+              "npm-package"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -96,12 +197,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-native video platform where autonomous agents create, publish, and earn. Multi-agent content economy on Sybil-resistant, hardware-verified infrastructure. Part of the RustChain DePIN ecosystem.",
+            "homepage": "https://bottube.ai",
             "id": 1146846456,
             "language": "Python",
-            "last_commit": "2026-08-28T16:39:54Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:14:45Z",
+            "open_issues": 148,
             "owner": "Scottcjn",
             "repo": "bottube",
-            "stars": 320
+            "stars": 320,
+            "topics": [
+              "agent-economy",
+              "agentic-workflows",
+              "ai-agents",
+              "ai-generated-content",
+              "ai-video",
+              "autonomous-agents",
+              "bot-platform",
+              "comfyui",
+              "depin",
+              "hardware-verified",
+              "ltx-video",
+              "multi-agent-systems",
+              "open-source",
+              "proof-of-physical-ai",
+              "python",
+              "rustchain",
+              "social-media",
+              "sybil-resistance",
+              "video-platform"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -112,12 +238,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Earn RTC crypto by contributing to the RustChain ecosystem. Bounties from 1-150 RTC. Star, code, write tutorials, find bugs.",
+            "homepage": "https://rustchain.org",
             "id": 1147677291,
             "language": "Python",
-            "last_commit": "2026-08-28T17:49:17Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T01:15:24Z",
+            "open_issues": 1166,
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
-            "stars": 251
+            "stars": 251,
+            "topics": [
+              "ai-agents",
+              "blockchain",
+              "bounties",
+              "bug-bounty",
+              "community",
+              "contributions",
+              "cryptocurrency",
+              "earn-crypto",
+              "first-timers-only",
+              "good-first-issue",
+              "hacktoberfest",
+              "open-source",
+              "rtc-token",
+              "rustchain",
+              "vintage-computing"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -128,12 +275,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beacon - agent-to-agent pings with optional RTC value attached (BoTTube/Moltbook/RustChain + UDP bus)",
+            "homepage": "https://rustchain.org",
             "id": 1154634184,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:39:15Z",
+            "open_issues": 5,
             "owner": "Scottcjn",
             "repo": "beacon-skill",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "agent-economy",
+              "ai-agents",
+              "blockchain",
+              "claude",
+              "first-timers-only",
+              "good-first-issue",
+              "hacktoberfest",
+              "llm",
+              "mcp",
+              "openclaw",
+              "python",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -144,12 +309,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":birthday: Coder's way of wishing Happy Birthday! :cake:  :confetti_ball: :tada: :balloon:",
+            "homepage": "https://vinitshahdeo.github.io/HBD/",
             "id": 90665274,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-10-16T20:09:52Z",
+            "open_issues": 288,
             "owner": "vinitshahdeo",
             "repo": "HBD",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "birthday",
+              "birthday-message",
+              "birthday-wishes",
+              "code-snippets",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "happy-birthday",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -160,12 +339,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM infrastructure cost reduction via NUMA-aware weight banking: 147 t/s (8.8x stock llama.cpp) on refurbished enterprise POWER8. Self-hosted inference, no cloud APIs. Part of the Proof of Physical AI stack.",
+            "homepage": "https://rustchain.org",
             "id": 1137729039,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-20T15:47:11Z",
+            "open_issues": 9,
             "owner": "Scottcjn",
             "repo": "ram-coffers",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "ai-inference",
+              "ai-infrastructure",
+              "cost-optimization",
+              "depin",
+              "edge-ai",
+              "energy-efficiency",
+              "hebbian",
+              "inference-optimization",
+              "llama-cpp",
+              "llm",
+              "llm-inference",
+              "llmops",
+              "numa",
+              "power8",
+              "powerpc",
+              "ppc64le",
+              "proof-of-physical-ai",
+              "self-hosted",
+              "transformer",
+              "vec-perm"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -176,12 +381,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Water Monitoring System is an IOT based Liquid Level Monitoring system that has mechanisms to keep the user alerted in case of liquid overflow or when tank depletes.",
+            "homepage": "https://vinitshahdeo.github.io/Water-Monitoring-System/",
             "id": 141635301,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-02-18T16:38:49Z",
+            "open_issues": 116,
             "owner": "vinitshahdeo",
             "repo": "Water-Monitoring-System",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "api",
+              "arduino",
+              "coronavirus",
+              "coronavirus-real-time",
+              "coronavirus-tracking",
+              "covid-19",
+              "django",
+              "gssoc",
+              "gssoc20",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "hardware",
+              "iot",
+              "javascript",
+              "jquery",
+              "nodejs",
+              "rgsoc",
+              "ultrasonic-sensors",
+              "water-monitoring"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -192,12 +422,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "llama.cpp optimizations for IBM POWER8: vec_perm non-bijunctive collapse, PSE hardware entropy, DCBT prefetch. Sovereign inference. Part of the Proof of Physical AI stack.",
+            "homepage": "https://rustchain.org",
             "id": 1122433720,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T01:41:53Z",
+            "open_issues": 0,
             "owner": "Scottcjn",
             "repo": "llama-cpp-power8",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "ai-inference",
+              "ibm",
+              "llama-cpp",
+              "llm",
+              "llm-inference",
+              "power8",
+              "powerpc",
+              "ppc64le",
+              "proof-of-physical-ai",
+              "pse",
+              "sovereign-ai",
+              "sovereign-inference",
+              "transformer",
+              "vec-perm",
+              "vintage-computing",
+              "vintage-hardware"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -208,12 +460,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of issues for Hacktoberfest!",
+            "homepage": null,
             "id": 300452932,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-08T19:21:40Z",
+            "open_issues": 14,
             "owner": "Atharv-Attri",
             "repo": "HacktoberFest-Projects",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "c",
+              "cpp",
+              "dart",
+              "go",
+              "hacktoberfest",
+              "hacktoberfest-2020",
+              "hacktoberfest2020",
+              "haskell",
+              "java",
+              "javascript",
+              "python",
+              "ruby",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -224,12 +495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open Source resume builder for hassle free experience",
+            "homepage": null,
             "id": 625650796,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-31T16:54:12Z",
+            "open_issues": 14,
             "owner": "Documentive",
             "repo": "TemplateBuddy",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -240,12 +516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "this is my first Github  repository for learning git and github",
+            "homepage": null,
             "id": 953149158,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-03-26T06:37:25Z",
+            "open_issues": 0,
             "owner": "alpi248",
             "repo": "data-science-notebook",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -256,12 +537,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular Python-based packet sniffer built with Scapy, designed for educational and cybersecurity use. Captures live network traffic, logs summaries with timestamps, and supports clean environment setup via venv.",
+            "homepage": null,
             "id": 1069608888,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-04T14:34:27Z",
+            "open_issues": 0,
             "owner": "RazaJavaid2004",
             "repo": "CodeAlpha_Basic-Network-Sniffer",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         }
@@ -278,12 +564,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+            "homepage": "https://appwrite.io",
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:05:04Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T03:39:00Z",
+            "open_issues": 1027,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57156
+            "stars": 57155,
+            "topics": [
+              "android",
+              "appwrite",
+              "backend",
+              "backend-as-a-service",
+              "docker",
+              "firebase",
+              "flutter",
+              "hosting",
+              "ios",
+              "javascript",
+              "nextjs",
+              "react",
+              "react-native",
+              "reactnative",
+              "self-hosted",
+              "selfhosted",
+              "serverless",
+              "supabase",
+              "swift",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -294,12 +606,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+            "homepage": "https://app.docsgpt.cloud/",
             "id": 596516907,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:08:22Z",
+            "open_issues": 105,
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18231
+            "stars": 18231,
+            "topics": [
+              "agent-builder",
+              "agents",
+              "ai",
+              "chatgpt",
+              "docsgpt",
+              "hacktoberfest",
+              "hacktoberfest2025",
+              "information-retrieval",
+              "language-model",
+              "llm",
+              "machine-learning",
+              "natural-language-processing",
+              "python",
+              "pytorch",
+              "rag",
+              "react",
+              "search",
+              "semantic-search",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -310,12 +647,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time audio streaming over the network.",
+            "homepage": "https://roc-streaming.org",
             "id": 48029439,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-24T16:27:50Z",
+            "open_issues": 120,
             "owner": "roc-streaming",
             "repo": "roc-toolkit",
-            "stars": 1247
+            "stars": 1247,
+            "topics": [
+              "audio",
+              "dsp",
+              "fec",
+              "hacktoberfest",
+              "networking",
+              "real-time",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -326,12 +676,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A go-to tool for scanning network. Scan all the open ports for a given host with just one click.",
+            "homepage": "https://vinitshahdeo.github.io/PortScanner/",
             "id": 269067166,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-07T19:59:25Z",
+            "open_issues": 100,
             "owner": "vinitshahdeo",
             "repo": "PortScanner",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "express",
+              "express-server",
+              "hacktoberfest",
+              "nodejs",
+              "port-scanner",
+              "port-scanner-socket",
+              "port-scanning",
+              "python",
+              "remote-host"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -342,12 +707,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dynamically typed high-level front end for C",
+            "homepage": "https://cimplec.github.io/docs/",
             "id": 273546973,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-21T13:46:45Z",
+            "open_issues": 13,
             "owner": "cimplec",
             "repo": "sim-c",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "c",
+              "compiler",
+              "python",
+              "swoc",
+              "swoc2021"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -358,12 +734,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Clear, free, and open-source physics simulations developed by a global community of students.",
+            "homepage": null,
             "id": 281378857,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-13T03:11:53Z",
+            "open_issues": 24,
             "owner": "OpenPsiMu",
             "repo": "ThePhysicsHub",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "physics",
+              "simulations"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         },
@@ -374,12 +758,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A PyTorch based DeepRL framework to train and study artificial species in bio-inspired environments.",
+            "homepage": "https://project-dc.github.io/docs/",
             "id": 274225432,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-07-14T05:29:36Z",
+            "open_issues": 49,
             "owner": "Project-DC",
             "repo": "pygeneses",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "artificial-agents",
+              "artificial-intelligence",
+              "deep-learning",
+              "hacktoberfest",
+              "pytorch",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         }
@@ -396,12 +792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacktoberfest Tracker Mobile App",
+            "homepage": null,
             "id": 216213467,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T23:03:12Z",
+            "open_issues": 21,
             "owner": "KeyboardNinjas",
             "repo": "hacktoberfest-mobileapp",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         }
@@ -410,15 +811,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:29:43.705Z",
+    "last_updated": "2026-08-29T05:02:49.733Z",
     "original_repository_info": {
       "archived": false,
+      "description": "We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:",
+      "homepage": "https://piyushhbhutoria.github.io/awesome-hacktoberfest-2026/",
       "id": 292611591,
       "language": "SCSS",
+      "license": "CC0-1.0",
       "last_commit": "2026-03-11T14:53:02Z",
+      "open_issues": 1,
       "owner": "Piyushhbhutoria",
       "repo": "awesome-hacktoberfest-2026",
-      "stars": 62
+      "stars": 62,
+      "topics": [
+        "2025",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "contribution",
+        "hacktoberfest",
+        "meetups",
+        "open-source",
+        "opensource",
+        "star"
+      ]
     },
     "original_repository_sha": "6a68463668f17d270d65bcbe78b6b041a3c4ac59",
     "enhanced_repository": "enhansome/enhansome-hacktoberfest-2026",
