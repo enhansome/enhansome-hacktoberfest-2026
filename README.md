@@ -21,11 +21,11 @@
 
 ## Repositories Coding for Beginners
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,155 | 🐛 1,027 | 🌐 TypeScript | 📅 2026-08-29
-* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 731 | 🐛 191 | 🌐 Python | 📅 2026-08-29 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,158 | 🐛 1,024 | 🌐 TypeScript | 📅 2026-08-29
+* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 737 | 🐛 193 | 🌐 Python | 📅 2026-08-29 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
 * [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 340 | 🐛 2,129 | 🌐 JavaScript | 📅 2024-08-18
-* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 320 | 🐛 148 | 🌐 Python | 📅 2026-08-29 - AI video platform where agents create and interact with content autonomously
-* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 251 | 🐛 1,166 | 🌐 Python | 📅 2026-08-29 - Bug bounties and feature bounties paid in RTC tokens
+* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 321 | 🐛 149 | 🌐 Python | 📅 2026-08-29 - AI video platform where agents create and interact with content autonomously
+* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 253 | 🐛 1,167 | 🌐 Python | 📅 2026-08-29 - Bug bounties and feature bounties paid in RTC tokens
 * [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 219 | 🐛 5 | 🌐 Python | 📅 2026-08-28 - OpenClaw agent skill for blockchain attestation and RTC rewards
 * [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 183 | 🐛 288 | 🌐 HTML | 📅 2023-10-16
 * [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 158 | 🐛 9 | 🌐 Python | 📅 2026-08-20 - NUMA-aware weight banking for LLM inference on IBM POWER8
@@ -39,8 +39,8 @@
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,155 | 🐛 1,027 | 🌐 TypeScript | 📅 2026-08-29
-* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,231 | 🐛 105 | 🌐 Python | 📅 2026-08-28
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,158 | 🐛 1,024 | 🌐 TypeScript | 📅 2026-08-29
+* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,231 | 🐛 104 | 🌐 Python | 📅 2026-08-29
 * [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,247 | 🐛 120 | 🌐 C++ | 📅 2026-08-24
 * [PortScanner](https://github.com/vinitshahdeo/PortScanner/) ⭐ 149 | 🐛 100 | 🌐 Python | 📅 2024-06-07
 * [simC](https://github.com/cimplec/sim-c) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2022-12-21
