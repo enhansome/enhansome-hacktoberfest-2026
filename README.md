@@ -21,13 +21,13 @@
 
 ## Repositories Coding for Beginners
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,208 | 🐛 1,027 | 🌐 TypeScript | 📅 2026-09-01
-* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 740 | 🐛 207 | 🌐 Python | 📅 2026-09-01 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,236 | 🐛 1,023 | 🌐 TypeScript | 📅 2026-09-02
+* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 746 | 🐛 210 | 🌐 Python | 📅 2026-09-01 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
 * [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 340 | 🐛 2,128 | 🌐 JavaScript | 📅 2024-08-18
-* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 326 | 🐛 221 | 🌐 Python | 📅 2026-08-31 - AI video platform where agents create and interact with content autonomously
-* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 256 | 🐛 1,182 | 🌐 Python | 📅 2026-09-01 - Bug bounties and feature bounties paid in RTC tokens
-* [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 220 | 🐛 7 | 🌐 Python | 📅 2026-08-30 - OpenClaw agent skill for blockchain attestation and RTC rewards
-* [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 183 | 🐛 288 | 🌐 HTML | 📅 2023-10-16
+* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 327 | 🐛 474 | 🌐 Python | 📅 2026-09-01 - AI video platform where agents create and interact with content autonomously
+* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 257 | 🐛 1,212 | 🌐 Python | 📅 2026-09-02 - Bug bounties and feature bounties paid in RTC tokens
+* [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 220 | 🐛 8 | 🌐 Python | 📅 2026-08-30 - OpenClaw agent skill for blockchain attestation and RTC rewards
+* [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 184 | 🐛 288 | 🌐 HTML | 📅 2023-10-16
 * [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 160 | 🐛 19 | 🌐 Python | 📅 2026-08-29 - NUMA-aware weight banking for LLM inference on IBM POWER8
 * [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) ⭐ 156 | 🐛 116 | 🌐 HTML | 📅 2024-02-18
 * [llama.cpp POWER8](https://github.com/Scottcjn/llama-cpp-power8) ⭐ 128 | 🐛 2 | 🌐 C | 📅 2026-08-30 - PSE vec\_perm optimizations for llama.cpp on IBM POWER8
@@ -39,9 +39,9 @@
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,208 | 🐛 1,027 | 🌐 TypeScript | 📅 2026-09-01
-* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,231 | 🐛 109 | 🌐 Python | 📅 2026-08-31
-* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,248 | 🐛 120 | 🌐 C++ | 📅 2026-08-24
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,236 | 🐛 1,023 | 🌐 TypeScript | 📅 2026-09-02
+* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,233 | 🐛 109 | 🌐 Python | 📅 2026-09-02
+* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,249 | 🐛 120 | 🌐 C++ | 📅 2026-08-24
 * [PortScanner](https://github.com/vinitshahdeo/PortScanner/) ⭐ 149 | 🐛 100 | 🌐 Python | 📅 2024-06-07
 * [simC](https://github.com/cimplec/sim-c) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2022-12-21
 * [ThePhysicsHub](https://github.com/ThePhysHub/ThePhysicsHub/) ⚠️ Archived
@@ -69,4 +69,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
