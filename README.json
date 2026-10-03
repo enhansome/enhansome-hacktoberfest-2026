@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "ossamamehmood/Hacktoberfest2023",
-          "description": null,
+          "description": "ossamamehmood/Hacktoberfest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1334,
+            "stars": 1335,
             "topics": [
               "awesome",
               "contributions-welcome",
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "AliceWonderland/hacktoberfest",
-          "description": null,
+          "description": "AliceWonderland/hacktoberfest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -61,7 +61,7 @@
             "open_issues": 7675,
             "owner": "AliceWonderland",
             "repo": "hacktoberfest",
-            "stars": 1267,
+            "stars": 1268,
             "topics": [
               "easy-to-use",
               "first-timers",
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "Appwrite",
-          "description": null,
+          "description": "appwrite/appwrite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,11 +90,11 @@
             "id": 180190854,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T11:43:32Z",
+            "last_commit": "2026-10-03T03:46:15Z",
             "open_issues": 683,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57542,
+            "stars": 57546,
             "topics": [
               "android",
               "appwrite",
@@ -206,7 +206,7 @@
         {
           "node_type": "item",
           "title": "inspirational-quotes",
-          "description": null,
+          "description": "vinitshahdeo/inspirational-quotes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -243,7 +243,7 @@
             "id": 1147677291,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T11:30:14Z",
+            "last_commit": "2026-10-03T02:41:21Z",
             "open_issues": 986,
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
@@ -305,7 +305,7 @@
         {
           "node_type": "item",
           "title": "HBD",
-          "description": null,
+          "description": "vinitshahdeo/HBD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,7 +377,7 @@
         {
           "node_type": "item",
           "title": "Water Monitoring System",
-          "description": null,
+          "description": "vinitshahdeo/Water-Monitoring-System",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -456,7 +456,7 @@
         {
           "node_type": "item",
           "title": "HacktoberFest-Projects",
-          "description": null,
+          "description": "Atharv-Attri/HacktoberFest-Projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,7 +491,7 @@
         {
           "node_type": "item",
           "title": "TemplateBuddy",
-          "description": null,
+          "description": "Documentive/TemplateBuddy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -512,7 +512,7 @@
         {
           "node_type": "item",
           "title": "Traffic Accidents Analysis",
-          "description": null,
+          "description": "alpi248/data-science-notebook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -533,7 +533,7 @@
         {
           "node_type": "item",
           "title": "Network Snipper",
-          "description": null,
+          "description": "RazaJavaid2004/CodeAlpha_Basic-Network-Sniffer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,7 +560,7 @@
         {
           "node_type": "item",
           "title": "Appwrite",
-          "description": null,
+          "description": "appwrite/appwrite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -569,11 +569,11 @@
             "id": 180190854,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T11:43:32Z",
+            "last_commit": "2026-10-03T03:46:15Z",
             "open_issues": 683,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57542,
+            "stars": 57546,
             "topics": [
               "android",
               "appwrite",
@@ -602,7 +602,7 @@
         {
           "node_type": "item",
           "title": "DocsGPT - Documentation Assistant",
-          "description": null,
+          "description": "arc53/DocsGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -611,8 +611,8 @@
             "id": 596516907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:34:57Z",
-            "open_issues": 150,
+            "last_commit": "2026-10-02T20:53:52Z",
+            "open_issues": 162,
             "owner": "arc53",
             "repo": "DocsGPT",
             "stars": 18301,
@@ -644,7 +644,7 @@
         {
           "node_type": "item",
           "title": "Roc Toolkit",
-          "description": null,
+          "description": "roc-streaming/roc-toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -673,7 +673,7 @@
         {
           "node_type": "item",
           "title": "PortScanner",
-          "description": null,
+          "description": "vinitshahdeo/PortScanner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -704,7 +704,7 @@
         {
           "node_type": "item",
           "title": "simC",
-          "description": null,
+          "description": "cimplec/sim-c",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -731,7 +731,7 @@
         {
           "node_type": "item",
           "title": "ThePhysicsHub",
-          "description": null,
+          "description": "OpenPsiMu/ThePhysicsHub",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -755,7 +755,7 @@
         {
           "node_type": "item",
           "title": "PyGeneses",
-          "description": null,
+          "description": "Project-DC/pygeneses",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -789,7 +789,7 @@
         {
           "node_type": "item",
           "title": "Hacktoberfest Tracker Mobile App",
-          "description": "github",
+          "description": "KeyboardNinjas/hacktoberfest-mobileapp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:47:44.157Z",
+    "last_updated": "2026-10-03T04:47:29.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:",
