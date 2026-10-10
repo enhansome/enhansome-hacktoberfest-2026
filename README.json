@@ -90,11 +90,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T14:56:58Z",
-            "open_issues": 771,
+            "last_commit": "2026-10-10T15:56:19Z",
+            "open_issues": 779,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57618,
+            "stars": 57621,
             "topics": [
               "android",
               "appwrite",
@@ -335,11 +335,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T14:56:58Z",
-            "open_issues": 771,
+            "last_commit": "2026-10-10T15:56:19Z",
+            "open_issues": 779,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57618,
+            "stars": 57621,
             "topics": [
               "android",
               "appwrite",
@@ -377,8 +377,8 @@
             "id": 596516907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T13:43:05Z",
-            "open_issues": 81,
+            "last_commit": "2026-10-10T10:14:18Z",
+            "open_issues": 97,
             "owner": "arc53",
             "repo": "DocsGPT",
             "stars": 18316,
@@ -423,7 +423,7 @@
             "open_issues": 123,
             "owner": "roc-streaming",
             "repo": "roc-toolkit",
-            "stars": 1260,
+            "stars": 1261,
             "topics": [
               "audio",
               "dsp",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:31:41.259Z",
+    "last_updated": "2026-10-10T16:21:24.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:",
