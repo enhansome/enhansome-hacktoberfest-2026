@@ -17,11 +17,11 @@
 ## Repositories Supporting First-Timers
 
 * [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023) ⭐ 1,339 | 🐛 52 | 📅 2025-10-06
-* [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) ⭐ 1,268 | 🐛 7,670 | 🌐 HTML | 📅 2024-07-09
+* [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) ⭐ 1,269 | 🐛 7,669 | 🌐 HTML | 📅 2024-07-09
 
 ## Repositories Coding for Beginners
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,651 | 🐛 766 | 🌐 TypeScript | 📅 2026-10-12
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,687 | 🐛 779 | 🌐 TypeScript | 📅 2026-10-13
 * [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 339 | 🐛 2,125 | 🌐 JavaScript | 📅 2024-08-18
 * [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 184 | 🐛 286 | 🌐 HTML | 📅 2023-10-16
 * [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) ⭐ 156 | 🐛 116 | 🌐 HTML | 📅 2024-02-18
@@ -39,9 +39,9 @@
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,651 | 🐛 766 | 🌐 TypeScript | 📅 2026-10-12
-* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,319 | 🐛 110 | 🌐 Python | 📅 2026-10-12
-* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,261 | 🐛 123 | 🌐 C++ | 📅 2026-08-24
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,687 | 🐛 779 | 🌐 TypeScript | 📅 2026-10-13
+* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,320 | 🐛 112 | 🌐 Python | 📅 2026-10-13
+* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,262 | 🐛 123 | 🌐 C++ | 📅 2026-08-24
 * [PortScanner](https://github.com/vinitshahdeo/PortScanner/) ⭐ 149 | 🐛 100 | 🌐 Python | 📅 2024-06-07
 * [simC](https://github.com/cimplec/sim-c) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2022-12-21
 * [ThePhysicsHub](https://github.com/ThePhysHub/ThePhysicsHub/) ⚠️ Archived
@@ -69,4 +69,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
