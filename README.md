@@ -21,7 +21,7 @@
 
 ## Repositories Coding for Beginners
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,691 | 🐛 794 | 🌐 TypeScript | 📅 2026-10-15
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,702 | 🐛 798 | 🌐 TypeScript | 📅 2026-10-16
 * [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 339 | 🐛 2,125 | 🌐 JavaScript | 📅 2024-08-18
 * [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 184 | 🐛 286 | 🌐 HTML | 📅 2023-10-16
 * [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) ⭐ 156 | 🐛 116 | 🌐 HTML | 📅 2024-02-18
@@ -39,8 +39,8 @@
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,691 | 🐛 794 | 🌐 TypeScript | 📅 2026-10-15
-* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,320 | 🐛 106 | 🌐 Python | 📅 2026-10-15
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,702 | 🐛 798 | 🌐 TypeScript | 📅 2026-10-16
+* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,321 | 🐛 106 | 🌐 Python | 📅 2026-10-16
 * [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,261 | 🐛 123 | 🌐 C++ | 📅 2026-08-24
 * [PortScanner](https://github.com/vinitshahdeo/PortScanner/) ⭐ 149 | 🐛 100 | 🌐 Python | 📅 2024-06-07
 * [simC](https://github.com/cimplec/sim-c) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2022-12-21
@@ -69,4 +69,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
