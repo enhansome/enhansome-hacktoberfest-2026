@@ -90,11 +90,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-16T15:27:35Z",
-            "open_issues": 798,
+            "last_commit": "2026-10-17T14:14:56Z",
+            "open_issues": 801,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57702,
+            "stars": 57715,
             "topics": [
               "android",
               "appwrite",
@@ -164,7 +164,7 @@
             "open_issues": 286,
             "owner": "vinitshahdeo",
             "repo": "HBD",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "birthday",
               "birthday-message",
@@ -335,11 +335,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-16T15:27:35Z",
-            "open_issues": 798,
+            "last_commit": "2026-10-17T14:14:56Z",
+            "open_issues": 801,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57702,
+            "stars": 57715,
             "topics": [
               "android",
               "appwrite",
@@ -377,11 +377,11 @@
             "id": 596516907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T15:06:45Z",
+            "last_commit": "2026-10-17T14:15:09Z",
             "open_issues": 106,
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18321,
+            "stars": 18322,
             "topics": [
               "agent-builder",
               "agents",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T15:29:03.378Z",
+    "last_updated": "2026-10-17T14:21:43.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:",
