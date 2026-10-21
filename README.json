@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1340,
+            "stars": 1339,
             "topics": [
               "awesome",
               "contributions-welcome",
@@ -61,7 +61,7 @@
             "open_issues": 7664,
             "owner": "AliceWonderland",
             "repo": "hacktoberfest",
-            "stars": 1272,
+            "stars": 1271,
             "topics": [
               "easy-to-use",
               "first-timers",
@@ -90,11 +90,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-20T15:43:11Z",
-            "open_issues": 808,
+            "last_commit": "2026-10-21T16:00:43Z",
+            "open_issues": 812,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57740,
+            "stars": 57748,
             "topics": [
               "android",
               "appwrite",
@@ -335,11 +335,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-20T15:43:11Z",
-            "open_issues": 808,
+            "last_commit": "2026-10-21T16:00:43Z",
+            "open_issues": 812,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57740,
+            "stars": 57748,
             "topics": [
               "android",
               "appwrite",
@@ -377,11 +377,11 @@
             "id": 596516907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:27:19Z",
-            "open_issues": 112,
+            "last_commit": "2026-10-21T15:32:17Z",
+            "open_issues": 108,
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18327,
+            "stars": 18331,
             "topics": [
               "agent-builder",
               "agents",
@@ -452,7 +452,7 @@
             "open_issues": 100,
             "owner": "vinitshahdeo",
             "repo": "PortScanner",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "express",
               "express-server",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:48:30.565Z",
+    "last_updated": "2026-10-21T16:04:14.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:",
