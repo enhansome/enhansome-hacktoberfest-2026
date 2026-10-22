@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1339,
+            "stars": 1338,
             "topics": [
               "awesome",
               "contributions-welcome",
@@ -90,11 +90,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-21T16:00:43Z",
-            "open_issues": 812,
+            "last_commit": "2026-10-22T15:33:34Z",
+            "open_issues": 877,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57748,
+            "stars": 57749,
             "topics": [
               "android",
               "appwrite",
@@ -335,11 +335,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-21T16:00:43Z",
-            "open_issues": 812,
+            "last_commit": "2026-10-22T15:33:34Z",
+            "open_issues": 877,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57748,
+            "stars": 57749,
             "topics": [
               "android",
               "appwrite",
@@ -377,8 +377,8 @@
             "id": 596516907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T15:32:17Z",
-            "open_issues": 108,
+            "last_commit": "2026-10-22T15:57:29Z",
+            "open_issues": 109,
             "owner": "arc53",
             "repo": "DocsGPT",
             "stars": 18331,
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T16:04:14.862Z",
+    "last_updated": "2026-10-22T15:59:30.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:",
