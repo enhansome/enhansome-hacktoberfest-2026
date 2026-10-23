@@ -90,11 +90,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T15:33:34Z",
-            "open_issues": 877,
+            "last_commit": "2026-10-23T15:49:44Z",
+            "open_issues": 824,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57749,
+            "stars": 57758,
             "topics": [
               "android",
               "appwrite",
@@ -335,11 +335,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T15:33:34Z",
-            "open_issues": 877,
+            "last_commit": "2026-10-23T15:49:44Z",
+            "open_issues": 824,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57749,
+            "stars": 57758,
             "topics": [
               "android",
               "appwrite",
@@ -377,11 +377,11 @@
             "id": 596516907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T15:57:29Z",
+            "last_commit": "2026-10-23T15:08:39Z",
             "open_issues": 109,
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18331,
+            "stars": 18334,
             "topics": [
               "agent-builder",
               "agents",
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:59:30.339Z",
+    "last_updated": "2026-10-23T15:51:30.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:",
