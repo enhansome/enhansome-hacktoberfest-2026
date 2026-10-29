@@ -17,31 +17,31 @@
 ## Repositories Supporting First-Timers
 
 * [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023) ⭐ 1,339 | 🐛 52 | 📅 2025-10-06
-* [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) ⭐ 1,272 | 🐛 7,652 | 🌐 HTML | 📅 2024-07-09
+* [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) ⭐ 1,272 | 🐛 7,651 | 🌐 HTML | 📅 2024-07-09
 
 ## Repositories Coding for Beginners
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,786 | 🐛 827 | 🌐 TypeScript | 📅 2026-10-28
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,790 | 🐛 738 | 🌐 TypeScript | 📅 2026-10-29
+* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 683 | 🐛 171 | 🌐 Python | 📅 2026-10-08 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
+* [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 365 | 🐛 134 | 🌐 Python | 📅 2026-10-08 - AI video platform where agents create and interact with content autonomously
 * [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 339 | 🐛 2,124 | 🌐 JavaScript | 📅 2024-08-18
+* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 288 | 🐛 921 | 🌐 Python | 📅 2026-10-23 - Bug bounties and feature bounties paid in RTC tokens
+* [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 237 | 🐛 26 | 🌐 Python | 📅 2026-10-07 - OpenClaw agent skill for blockchain attestation and RTC rewards
 * [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 185 | 🐛 286 | 🌐 HTML | 📅 2023-10-16
+* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) ⭐ 171 | 🐛 31 | 🌐 Python | 📅 2026-09-27 - NUMA-aware weight banking for LLM inference on IBM POWER8
 * [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) ⭐ 156 | 🐛 116 | 🌐 HTML | 📅 2024-02-18
+* [llama.cpp POWER8](https://github.com/Scottcjn/llama-cpp-power8) ⭐ 130 | 🐛 6 | 🌐 C | 📅 2026-09-26 - PSE vec\_perm optimizations for llama.cpp on IBM POWER8
 * [HacktoberFest-Projects](https://github.com/Atharv-Attri/HacktoberFest-Projects/) ⭐ 5 | 🐛 14 | 🌐 JavaScript | 📅 2021-10-08
 * [TemplateBuddy](https://github.com/Documentive/TemplateBuddy) ⭐ 3 | 🐛 14 | 🌐 JavaScript | 📅 2023-05-31
 * [Traffic Accidents Analysis](https://github.com/alpi248/data-science-notebook) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-03-26
 * [Network Snipper](https://github.com/RazaJavaid2004/CodeAlpha_Basic-Network-Sniffer) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-10-04
-* [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
-* [BoTTube](https://github.com/Scottcjn/bottube) - AI video platform where agents create and interact with content autonomously
-* [RAM Coffers](https://github.com/Scottcjn/ram-coffers) - NUMA-aware weight banking for LLM inference on IBM POWER8
-* [llama.cpp POWER8](https://github.com/Scottcjn/llama-cpp-power8) - PSE vec\_perm optimizations for llama.cpp on IBM POWER8
-* [Beacon Skill](https://github.com/Scottcjn/beacon-skill) - OpenClaw agent skill for blockchain attestation and RTC rewards
-* [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) - Bug bounties and feature bounties paid in RTC tokens
 * [Smart Contract Snippets](https://github.com/rohitroy-github/smart-contract-snippets)
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,786 | 🐛 827 | 🌐 TypeScript | 📅 2026-10-28
-* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,339 | 🐛 99 | 🌐 Python | 📅 2026-10-28
-* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,261 | 🐛 123 | 🌐 C++ | 📅 2026-08-24
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,790 | 🐛 738 | 🌐 TypeScript | 📅 2026-10-29
+* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,344 | 🐛 92 | 🌐 Python | 📅 2026-10-29
+* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,263 | 🐛 123 | 🌐 C++ | 📅 2026-08-24
 * [PortScanner](https://github.com/vinitshahdeo/PortScanner/) ⭐ 150 | 🐛 100 | 🌐 Python | 📅 2024-06-07
 * [simC](https://github.com/cimplec/sim-c) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2022-12-21
 * [ThePhysicsHub](https://github.com/ThePhysHub/ThePhysicsHub/) ⚠️ Archived
@@ -69,4 +69,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
