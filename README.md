@@ -21,10 +21,10 @@
 
 ## Repositories Coding for Beginners
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 58,065 | 🐛 743 | 🌐 TypeScript | 📅 2026-11-12
-* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 670 | 🐛 206 | 🌐 Python | 📅 2026-11-10 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 58,082 | 🐛 741 | 🌐 TypeScript | 📅 2026-11-13
+* [RustChain](https://github.com/Scottcjn/Rustchain) ⭐ 670 | 🐛 208 | 🌐 Python | 📅 2026-11-12 - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
 * [BoTTube](https://github.com/Scottcjn/bottube) ⭐ 366 | 🐛 132 | 🌐 Python | 📅 2026-11-07 - AI video platform where agents create and interact with content autonomously
-* [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 340 | 🐛 2,120 | 🌐 JavaScript | 📅 2024-08-18
+* [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) ⭐ 340 | 🐛 2,119 | 🌐 JavaScript | 📅 2024-08-18
 * [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) ⭐ 290 | 🐛 929 | 🌐 Python | 📅 2026-11-07 - Bug bounties and feature bounties paid in RTC tokens
 * [Beacon Skill](https://github.com/Scottcjn/beacon-skill) ⭐ 238 | 🐛 26 | 🌐 Python | 📅 2026-10-07 - OpenClaw agent skill for blockchain attestation and RTC rewards
 * [HBD](https://github.com/vinitshahdeo/HBD) ⭐ 185 | 🐛 286 | 🌐 HTML | 📅 2023-10-16
@@ -39,9 +39,9 @@
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 58,065 | 🐛 743 | 🌐 TypeScript | 📅 2026-11-12
-* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,375 | 🐛 86 | 🌐 Python | 📅 2026-11-12
-* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,263 | 🐛 122 | 🌐 C++ | 📅 2026-11-09
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 58,082 | 🐛 741 | 🌐 TypeScript | 📅 2026-11-13
+* [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/) ⭐ 18,374 | 🐛 85 | 🌐 Python | 📅 2026-11-13
+* [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) ⭐ 1,264 | 🐛 122 | 🌐 C++ | 📅 2026-11-09
 * [PortScanner](https://github.com/vinitshahdeo/PortScanner/) ⭐ 150 | 🐛 100 | 🌐 Python | 📅 2024-06-07
 * [simC](https://github.com/cimplec/sim-c) ⭐ 139 | 🐛 13 | 🌐 Python | 📅 2022-12-21
 * [ThePhysicsHub](https://github.com/ThePhysHub/ThePhysicsHub/) ⚠️ Archived
@@ -69,4 +69,4 @@ See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
