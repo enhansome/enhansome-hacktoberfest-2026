@@ -58,7 +58,7 @@
             "language": "HTML",
             "license": "GPL-3.0",
             "last_commit": "2024-07-09T23:35:59Z",
-            "open_issues": 7649,
+            "open_issues": 7648,
             "owner": "AliceWonderland",
             "repo": "hacktoberfest",
             "stars": 1272,
@@ -90,11 +90,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-13T18:40:02Z",
+            "last_commit": "2026-11-14T15:00:49Z",
             "open_issues": 741,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 58082,
+            "stars": 58089,
             "topics": [
               "android",
               "appwrite",
@@ -133,10 +133,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-12T21:49:11Z",
-            "open_issues": 208,
+            "open_issues": 209,
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 670,
+            "stars": 669,
             "topics": [
               "agent-authentication",
               "agent-economy",
@@ -244,10 +244,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-07T02:26:41Z",
-            "open_issues": 929,
+            "open_issues": 930,
             "owner": "Scottcjn",
             "repo": "rustchain-bounties",
-            "stars": 290,
+            "stars": 289,
             "topics": [
               "ai-agents",
               "blockchain",
@@ -547,7 +547,12 @@
             "owner": "RazaJavaid2004",
             "repo": "CodeAlpha_Basic-Network-Sniffer",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "cybersecurity",
+              "packet-sniffer",
+              "python",
+              "scrapy"
+            ]
           },
           "first_seen": "2026-08-28T21:29:43.705Z"
         }
@@ -569,11 +574,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-13T18:40:02Z",
+            "last_commit": "2026-11-14T15:00:49Z",
             "open_issues": 741,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 58082,
+            "stars": 58089,
             "topics": [
               "android",
               "appwrite",
@@ -611,11 +616,11 @@
             "id": 596516907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T14:22:49Z",
-            "open_issues": 85,
+            "last_commit": "2026-11-14T07:49:58Z",
+            "open_issues": 90,
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18374,
+            "stars": 18375,
             "topics": [
               "agent-builder",
               "agents",
@@ -657,7 +662,7 @@
             "open_issues": 122,
             "owner": "roc-streaming",
             "repo": "roc-toolkit",
-            "stars": 1264,
+            "stars": 1263,
             "topics": [
               "audio",
               "dsp",
@@ -812,7 +817,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T18:42:03.878Z",
+    "last_updated": "2026-11-14T17:16:23.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:",
